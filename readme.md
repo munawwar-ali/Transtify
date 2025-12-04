@@ -44,7 +44,10 @@ It is designed to be clean, responsive, and fast — with a smooth UI and loader
 - **Bootstrap Grid for responsiveness**
 
 ---
+## Live preview
+- https://munawwar-ali.github.io/Transtify/
 
+  
 ## ⚙️ How It Works
 
 1. User types a word in the input box.  
@@ -54,6 +57,7 @@ It is designed to be clean, responsive, and fast — with a smooth UI and loader
 5. Loader hides and results appear smoothly.  
 
 ---
+
 
 
 
