@@ -1,0 +1,96 @@
+#fs-4 {
+  text-decoration: none;
+  background-color: transparent;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+#textStyle {
+  font-size: 1.4rem;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+  font-weight: bold;
+}
+.fw-normal {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+.hide1 {
+  display: none;
+}
+small {
+  color: grey;
+  font-weight: 300;
+}
+.hide2 {
+  display: none;
+}
+
+#defineArea {
+  margin-top: 10px;
+  margin-bottom: 18px;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+#exampleArea {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+audio {
+  width: 100%;
+  max-width: 260px;
+  height: 40px;
+  border-radius: 30px;
+  background: #f8f9fa;
+  outline: none;
+  display: block;
+  margin: 15px auto 0 auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: 0.3s ease;
+}
+
+audio:hover {
+  transform: scale(1.03);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.18);
+}
+.dialog {
+  position: fixed;
+  
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+}
+
+.dialog-content {
+  
+  background: white;
+  padding: 20px 25px;
+  width: 80%;
+  max-width: 450px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  animation: fadeIn 0.3s ease-out;
+}
+
+.dialog button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  background: #4CAF50;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: scale(0.9); }
+  to { opacity: 1; transform: scale(1); }
+}
+#dialogtext{
+  margin-bottom: 18px;
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+#impText{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
