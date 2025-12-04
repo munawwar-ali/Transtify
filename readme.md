@@ -46,6 +46,8 @@ It is designed to be clean, responsive, and fast — with a smooth UI and loader
 ---
 ## Live preview
 - https://munawwar-ali.github.io/Transtify/
+- https://transtify-five.vercel.app/
+Both are working
 
   
 ## ⚙️ How It Works
@@ -57,6 +59,7 @@ It is designed to be clean, responsive, and fast — with a smooth UI and loader
 5. Loader hides and results appear smoothly.  
 
 ---
+
 
 
 
