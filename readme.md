@@ -2,7 +2,7 @@
 Translate • Learn • Remember  
 
 Transtify is a smart word-learning tool that helps users understand any English word with clear definitions, examples, translations, and memory tricks.  
-It is designed to be clean, responsive, and fast — with a smooth UI and loader animation for better user experience.
+It is designed to be clean, responsive, and fast — with a smooth UI for better user experience.
 
 ---
 
@@ -59,6 +59,7 @@ Both are working
 5. Loader hides and results appear smoothly.  
 
 ---
+
 
 
 
